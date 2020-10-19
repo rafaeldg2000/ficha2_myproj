@@ -1,4 +1,3 @@
-Este é um exemplo de um ficheiro de texto file3
 
 <h2>Bebidas</h2>
 
@@ -6,5 +5,12 @@ Este é um exemplo de um ficheiro de texto file3
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
+
+<h1>Listas de coisas</h1>
+
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
  </ul>
 
